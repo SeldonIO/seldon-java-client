@@ -1,4 +1,6 @@
 # seldon-java-client
-Seldon Java REST Client
 
-A java client for the Seldon Oauth API.  For server to server integrations.
+This project has been re-located to the [seldon-server](https://github.com/SeldonIO/seldon-server) project.
+
+`seldon-server/client/java-client`
+
